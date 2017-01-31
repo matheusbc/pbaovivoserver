@@ -1,0 +1,27 @@
+{
+  "name": "placar-pb",
+  "version": "1.0.0",
+  "description": "Placares dos jogos dos times paraibanos ao vivo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusbc/pbaovivoserver.git"
+  },
+  "keywords": [
+    "futebol",
+    "placar",
+    "vivo",
+    "paraíba",
+    "paraibano",
+    "pb"
+  ],
+  "author": "Matheus Campos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusbc/pbaovivoserver/issues"
+  },
+  "homepage": "https://github.com/matheusbc/pbaovivoserver#readme"
+}
