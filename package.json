@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/matheusbc/pbaovivoserver/issues"
   },
-  "homepage": "https://github.com/matheusbc/pbaovivoserver#readme"
+  "homepage": "https://github.com/matheusbc/pbaovivoserver#readme",
+  "dependencies": {
+    "node-cron": "^1.1.2"
+  }
 }
